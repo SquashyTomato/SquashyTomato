@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello There 👋
+This is my GitHub Profile. I guess you somehow found your way here.
 
-<!--
-**SquashyTomato/SquashyTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on [voxtl.tv](https://voxtl.tv) & [Ariya](https://ariyabot.xyz)
+- 🌱 I’m currently learning Go, Nuxt.js & Elixir
+- 💬 Ask me about NodeJS & PHP
+- 📫 How to reach me: [me@tomato.sh](mailto:me@tomato.sh) or Discord: Tomato#0001
+- ⚡ Fun fact: I love creating random projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats For Nerds
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=SquashyTomato&show_icons=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SquashyTomato&layout=compact)
