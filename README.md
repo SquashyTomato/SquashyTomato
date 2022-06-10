@@ -2,7 +2,7 @@
 This is my GitHub Profile. I guess you somehow found your way here.
 
 ## About Me
-- 🔭 I’m currently working on [voxtl.tv](https://voxtl.tv) & [Ariya](https://ariyabot.xyz)
+- 🔭 I’m currently working on....
 - 🌱 I’m currently learning Go, Nuxt.js & Elixir
 - 💬 Ask me about NodeJS & PHP
 - 📫 How to reach me: [me@tomato.sh](mailto:me@tomato.sh) or Discord: Tomato#0001
