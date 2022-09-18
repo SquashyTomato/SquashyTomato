@@ -9,5 +9,5 @@ This is my GitHub Profile. I guess you somehow found your way here.
 - ⚡ Fun fact: I love creating random projects
 
 ## Stats For Nerds
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=SquashyTomato&show_icons=true)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SquashyTomato&layout=compact)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=SquashyTomato&theme=tokyonight&show_icons=true&count_private=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SquashyTomato&theme=tokyonight&layout=compact)
